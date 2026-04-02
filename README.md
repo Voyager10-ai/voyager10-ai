@@ -164,7 +164,19 @@ me.say_hi()
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Voyager10-ai&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Voyager10-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</div>
+
+---
+
+## 🐍 Contribution Snake — Live Daily Update
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Voyager10-ai/Voyager10-ai/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Voyager10-ai/Voyager10-ai/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Voyager10-ai/Voyager10-ai/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
